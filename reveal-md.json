@@ -1,0 +1,7 @@
+{
+  "title": "Developers welcome: Impacto social y desarrollo web",
+  "theme": "league",
+  "highlightTheme": "monokai-sublime",
+  "css": ["custom.css"],
+  "assetsDir": "assets"
+}
