@@ -7,9 +7,74 @@ Here we can add speaker notes
 
 ---
 
-## Another slide
+## Personas refugiadas: el contexto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
+---
+
+### Contexto mundial
+
+Según los datos de UNCHR el último año hubo 70 millones de personas que han sido forzadas a emigrar debido a conflictos violentos y violaciones de derechos humanos.
+
+---
+  
+TODO: Añadir gráfica de https://www.unhcr.org/en-us/figures-at-a-glance.html
+
+---
+
+### Refugiados por países
+
+De los 70 millones de refugiados en el mundo, Siria se encuentra en una situación excepcional con unos 12 millones de desplazados. Le sigue Colombia, con unos 8 millones de personas desplazadas. Los conflictos en Sudán del sur, Afganistán y Venezuela han multiplicado el número de personas forzadas a migrar.
+
+ En el caso de España, la crísis de Venezuela ha causado un repunte en en el número de refugiados. Al menos el 85% de los refugiados se establecieron en los países más pobres, especialmente países vecinos.
+  
+---
+  
+<!-- .slide: data-background="img/source-of-refugees.png" -->
+
+---
+  
+<!-- .slide: data-background="img/internal-refugees.png" -->
+
+---
+
+### El mediterráneo
+
+Debido al cierre de fronteras de la Unión Europea, y de la nula ayuda a los barcos de salvamento de refugiados, el Mediterráneo ha sido, de nuevo, la ruta más peligrosa del mundo para las personas que migran forzosamente.
+
+---
+  
+<!-- .slide: data-background="img/8-claves-costas-españolas.jpg" -->
+
+---
+
+### Unión Europea
+
+En 2018, según Eurostat, hubo 637.895 peticiones de asilo en Europa, un descenso respecto a 2018, y casi la mitad que en 2016. Alemania es el país que más solicitudes de asilo recibe (185.583), seguida de Francia (122.743), Grecia (66970) y en cuanto lugar España (54.065).
+
+<!--
+
+Comentario
+Una de las políticas más inquietantes de la Unión europea, en la que España es pionera, es que las inversiones en programas de ayuda al  desarrollo en países africanos viene condicionada al control de la migración. España tiene acuerdos de este tipo especialmente con Marruecos. 
+
+-->
+
+---
+
+## Situación en España
+
+Por tercer año consecutivo, Venezuela es el país del que más peticiones de asilo se recibieron (19.280) casi el doble que el año anterior. Los siguientes países fueron Colombia (8.650), Siria (2.775), Honduras (2.410) y El Salvador (2.275)
+
+---
+
+<!-- .slide: data-background="img/01_ES_solicitantespornacionalidad.jpg" -->
+
+---
+
+## Proceso de asilo
+
+---
+TODO: Explicar el proceso de asilo y enlazar con las escuelas.
+<!-- .slide: data-background="img/proceso-asilo.jpg" -->
 
 ---
 
