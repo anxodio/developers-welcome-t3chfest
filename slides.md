@@ -80,6 +80,8 @@ img/01_ES_solicitantespornacionalidad.jpg
 Note:
 img/proceso-asilo.jpg
 
+---
+
 ## Escuelas de programación para personas migrantes y refugiadas
 
 ---
