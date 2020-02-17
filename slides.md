@@ -16,7 +16,7 @@ Here we can add speaker notes
 Según los datos de UNCHR el último año hubo 70 millones de personas que han sido forzadas a emigrar debido a conflictos violentos y violaciones de derechos humanos.
 
 ---
-  
+
 TODO: Añadir gráfica de https://www.unhcr.org/en-us/figures-at-a-glance.html
 
 ---
@@ -25,14 +25,14 @@ TODO: Añadir gráfica de https://www.unhcr.org/en-us/figures-at-a-glance.html
 
 De los 70 millones de refugiados en el mundo, Siria se encuentra en una situación excepcional con unos 12 millones de desplazados. Le sigue Colombia, con unos 8 millones de personas desplazadas. Los conflictos en Sudán del sur, Afganistán y Venezuela han multiplicado el número de personas forzadas a migrar.
 
- En el caso de España, la crísis de Venezuela ha causado un repunte en en el número de refugiados. Al menos el 85% de los refugiados se establecieron en los países más pobres, especialmente países vecinos.
-  
+En el caso de España, la crisis de Venezuela ha causado un repunte en el número de refugiados. Al menos el 85% de los refugiados se establecieron en los países más pobres, especialmente países vecinos.
+
 ---
-  
+
 <!-- .slide: data-background="img/source-of-refugees.png" -->
 
 ---
-  
+
 <!-- .slide: data-background="img/internal-refugees.png" -->
 
 ---
@@ -42,7 +42,7 @@ De los 70 millones de refugiados en el mundo, Siria se encuentra en una situaci�
 Debido al cierre de fronteras de la Unión Europea, y de la nula ayuda a los barcos de salvamento de refugiados, el Mediterráneo ha sido, de nuevo, la ruta más peligrosa del mundo para las personas que migran forzosamente.
 
 ---
-  
+
 <!-- .slide: data-background="img/8-claves-costas-españolas.jpg" -->
 
 ---
@@ -54,7 +54,7 @@ En 2018, según Eurostat, hubo 637.895 peticiones de asilo en Europa, un descens
 <!--
 
 Comentario
-Una de las políticas más inquietantes de la Unión europea, en la que España es pionera, es que las inversiones en programas de ayuda al  desarrollo en países africanos viene condicionada al control de la migración. España tiene acuerdos de este tipo especialmente con Marruecos. 
+Una de las políticas más inquietantes de la Unión europea, en la que España es pionera, es que las inversiones en programas de ayuda al  desarrollo en países africanos viene condicionada al control de la migración. España tiene acuerdos de este tipo especialmente con Marruecos.
 
 -->
 
@@ -73,7 +73,9 @@ Por tercer año consecutivo, Venezuela es el país del que más peticiones de as
 ## Proceso de asilo
 
 ---
+
 TODO: Explicar el proceso de asilo y enlazar con las escuelas.
+
 <!-- .slide: data-background="img/proceso-asilo.jpg" -->
 
 ---
@@ -107,7 +109,7 @@ TODO: Explicar el proceso de asilo y enlazar con las escuelas.
 
 - Charity creada en el 2017 en Atenas
 - Actualmente también en Creta
-- +100 graduados (datos en Julio de 2019)
+- +100 graduados (datos en julio de 2019)
 - También clases de alfabetización informática
 
 ---
@@ -117,13 +119,13 @@ TODO: Explicar el proceso de asilo y enlazar con las escuelas.
 - Inicio a finales de 2019
 - En el marco de la ONG Open Cultural Center
 - Partnership con Social Hackers Academy
-- Curriculum y materiales libres, inspirados en HYF
+- Currículum y materiales libres, inspirados en HYF
 
 Note:
 Open Cultural Center: ONG creada en 2016
 
-- Clases de lengua y migracode en BCN
-- Centro culutral en Polikastro (Grecia), al lado de campo de refugiados
+- Clases de lengua y Migracode en BCN
+- Centro cultural en Polikastro (Grecia), al lado de campo de refugiados
 
 TODO: Diapo de OCC? Algo impactante, rollo foto de escuela en el refugio?
 
@@ -148,7 +150,7 @@ TODO: Vincent tiene una diapo de esto super chula, en slides la podriamos hacer 
 
 ### Migracode: Aplicantes
 
-- Refugiados o en busqueda de asilo
+- Refugiados o en búsqueda de asilo
 - Migrantes sin encontrar oportunidades laborales
 - Migrantes en una situación vulnerable
 
@@ -168,9 +170,9 @@ Dan apoyo legal para conseguir la docu, pero tiene que haber algo empezado
 
 ### Migracode: Aplicantes
 
-- Rellenar formulario: quien eres, por que migracode, background
+- Rellenar formulario: quien eres, por que Migracode, background
 - Actividad HTML/CSS en casa, autodidacta
-- Entrevista con alguien de coordinacion
+- Entrevista con alguien de coordinación
 
 ---
 
@@ -210,11 +212,11 @@ TODO: Hacer una grafica
 
 ---
 
-### Migracode: Inclusion de genero
+### Migracode: Inclusion de género
 
 - 5 instructoras entre las voluntarias
 - 3/10 mujeres estudiantes
-- Ayuda a la concilicación
+- Ayuda a la conciliación
 
 ---
 
@@ -225,13 +227,13 @@ TODO: Hacer una grafica
 ### Migracode: Voluntarias
 
 - Pequeña entrevista de contacto
-- Aportar segun tus posibilidades
+- Aportar según tus posibilidades
 - Enseñando se aprende
 - ¡Todos podemos aportar algo!
 
 Note:
 Explicar como hacerse voluntario, entrar a la web, formulario,
-hacer entrevista con alguien de coordinacion, luego motivar a que por
+hacer entrevista con alguien de coordinación, luego motivar a que por
 poco tiempo que tengas puedes hacer algo
 
 - TODO: No se si mover esta diapo a "como participar"
@@ -262,12 +264,12 @@ Soft skills: resolver conflictos, comunicación...
 ### Migracode: Temario
 
 - 200 horas de clase
-- 4 horas martes _teoria_
+- 4 horas martes _teoría_
 - 4 horas sábado _práctica_
 - Slack para dudas o 101
 
 Note:
-Se les piden ~20 horas semanales en casa. Los martes no son puramente teoricos.
+Se les piden ~20 horas semanales en casa. Los martes no son puramente teóricos.
 Los sábados se pide que hayan avanzado en casa y traigan dudas.
 Pueden pedir 101 en remoto o quedar con voluntarios
 
@@ -275,12 +277,66 @@ Pueden pedir 101 en remoto o quedar con voluntarios
 
 ### Retos de la formación
 
-- Contextos en casa dificiles
+- Contextos en casa difíciles
 - Intentar enseñar mucho en poco tiempo
 - Distintos ritmos de aprendizaje
 
 Note:
-Ejemplo contexto dificil: persona operada de una pierna
-que no podia venir a algunas clases por el médico
+Ejemplo contexto difícil: persona operada de una pierna
+que no podía venir a algunas clases por el médico
 
-TODO: Esta la tenemos que acabar de trabajar entre los dos, y preguntaré
+TODO: Ésta la tenemos que acabar de trabajar entre los dos, y preguntaré
+
+---
+
+## Casos de éxito
+
+---
+
+TODO
+
+---
+
+## Como participar
+
+---
+
+### Voluntariado
+
+- Ponte en contacto con alguna organización local
+- Fuera de BCN o Madrid: 101, material
+- ¡Aún con poca dedicación puedes ayudar!
+
+Note:
+Desde fuera de BCN o Madrid pueden colaborar con videollamadas
+de apoyo a personas que necesitan ayuda para seguir el ritmo de la clase,
+o también trabajar en los materiales, etc.
+
+---
+
+### Difusión
+
+Ayudanos a llegar más lejos
+
+---
+
+### Donaciones
+
+Económicas, material...
+
+---
+
+### Empresas
+
+- Donaciones
+- Espacios
+- **Contrataciones**
+
+Note:
+
+Migracode ofrece fundar una clase de 7 meses por ~15000 euros, y Globo
+ha fundado ya un par en BCN que empiezan en marzo
+
+---
+
+# ¡Gracias!
