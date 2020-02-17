@@ -51,12 +51,8 @@ Debido al cierre de fronteras de la Unión Europea, y de la nula ayuda a los bar
 
 En 2018, según Eurostat, hubo 637.895 peticiones de asilo en Europa, un descenso respecto a 2018, y casi la mitad que en 2016. Alemania es el país que más solicitudes de asilo recibe (185.583), seguida de Francia (122.743), Grecia (66970) y en cuanto lugar España (54.065).
 
-<!--
-
-Comentario
+Note:
 Una de las políticas más inquietantes de la Unión europea, en la que España es pionera, es que las inversiones en programas de ayuda al  desarrollo en países africanos viene condicionada al control de la migración. España tiene acuerdos de este tipo especialmente con Marruecos.
-
--->
 
 ---
 
@@ -64,19 +60,25 @@ Una de las políticas más inquietantes de la Unión europea, en la que España 
 
 Por tercer año consecutivo, Venezuela es el país del que más peticiones de asilo se recibieron (19.280) casi el doble que el año anterior. Los siguientes países fueron Colombia (8.650), Siria (2.775), Honduras (2.410) y El Salvador (2.275)
 
----
-
-<!-- .slide: data-background="img/01_ES_solicitantespornacionalidad.jpg" -->
+Note:
+img/01_ES_solicitantespornacionalidad.jpg
 
 ---
 
 ## Proceso de asilo
 
----
+1. La persona solicitante de asilo, una vez entra en territorio español, tiene un mes de plazo para realizar dicha solicitud. Debe explicar por qué pide asilo.
+2. El estado tiene 30 días para no admitir a trámite.
+3. Admitida a trámite, el estado tiene 6 meses para estudiar la solicitud y el solicitante tiene derecho a trabajar.
+4. La resolución puede ser de los siguientes tipos
 
-TODO: Explicar el proceso de asilo y enlazar con las escuelas.
+  4.1. Concesión del estatuto de persona refugiada
+  4.2. Concesión de protección subsidiaria
+  4.3. Denegación del estatuto pero concesión de autorización de residencia por razones humanitarias
+  4.4. Denegación de protección
 
-<!-- .slide: data-background="img/proceso-asilo.jpg" -->
+Note:
+img/proceso-asilo.jpg
 
 ---
 
@@ -293,17 +295,19 @@ TODO: Ésta la tenemos que acabar de trabajar entre los dos, y preguntaré
 
 ---
 
-TODO
+TODO: Espacio de 3-5 minutos para Harvin Zuniga
 
 ---
 
-## Como participar
+## Cómo participar
 
 ---
 
 ### Voluntariado
 
 - Ponte en contacto con alguna organización local
+  - A veces necesitamos profesores o asistentes
+  - También para talleres o charlas
 - Fuera de BCN o Madrid: 101, material
 - ¡Aún con poca dedicación puedes ayudar!
 
@@ -316,21 +320,27 @@ o también trabajar en los materiales, etc.
 
 ### Difusión
 
-Ayudanos a llegar más lejos
+Ayúdanos a dar a conocer el proyecto en la comunidad.
+Comparte en redes nuestras acciones y mensajes.
+Combatir los mitos sobre las personas refugiadas es de vital importancia
 
 ---
 
 ### Donaciones
 
-Económicas, material...
+En MFR necesitamos materiales: ordenadores, proyectores, espacios...etc.
+Puedes donar a MFR para que la organización siga en marcha.
 
 ---
 
 ### Empresas
 
 - Donaciones
+  - Económicas
+  - Materiañes
 - Espacios
-- **Contrataciones**
+- Esponsorizar acciones
+- **CONTRÁTALES**
 
 Note:
 
