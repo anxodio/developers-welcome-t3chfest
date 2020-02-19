@@ -52,7 +52,7 @@ Debido al cierre de fronteras de la Unión Europea, y de la nula ayuda a los bar
 En 2018, según Eurostat, hubo 637.895 peticiones de asilo en Europa, un descenso respecto a 2018, y casi la mitad que en 2016. Alemania es el país que más solicitudes de asilo recibe (185.583), seguida de Francia (122.743), Grecia (66970) y en cuanto lugar España (54.065).
 
 Note:
-Una de las políticas más inquietantes de la Unión europea, en la que España es pionera, es que las inversiones en programas de ayuda al  desarrollo en países africanos viene condicionada al control de la migración. España tiene acuerdos de este tipo especialmente con Marruecos.
+Una de las políticas más inquietantes de la Unión europea, en la que España es pionera, es que las inversiones en programas de ayuda al desarrollo en países africanos viene condicionada al control de la migración. España tiene acuerdos de este tipo especialmente con Marruecos.
 
 ---
 
@@ -105,6 +105,9 @@ img/proceso-asilo.jpg
 - Actualmente también en Manchester, Glasgow, Roma y Medellín
 - +100 graduados (datos hasta 2019)
 
+Note:
+Es un fork de `HackYouFuture`?
+
 ---
 
 ### Social Hackers Academy
@@ -131,6 +134,18 @@ Open Cultural Center: ONG creada en 2016
 
 TODO: Diapo de OCC? Algo impactante, rollo foto de escuela en el refugio?
 
+### Madrid For Refugees
+
+- La primera promoción empieza a finales de 2018
+- MadridForRefugees es una ONG con múltiples proyectos
+- Colabora con varias organizaciones UNHCR Spain, CEAR, Movimiento por la Paz...etc.
+- Currículum for de HYF y adaptado a nuestras necesidades
+
+Note:
+MadridForRefugees se funda en 2015
+Más de 100 voluntarias de 30 países
+Cursos de lengua, de alfabetización digital, búsqueda de empleo...etc.
+
 ---
 
 ### Migracode
@@ -140,17 +155,28 @@ TODO: Diapo de OCC? Algo impactante, rollo foto de escuela en el refugio?
 Note:
 TODO: Vincent tiene una diapo de esto super chula, en slides la podriamos hacer similar
 
----
+### Madrid For Refugees
 
-### Migracode
+> We are a non-profit association dedicated to helping and empowering refugees and asylum seekers in the local community in Madrid, Spain. We focus on community integration and employability for refugees.
+
+---
+### Sostenibilidad
+
+#### Migracode
 
 - Apoyo de subvención Europea
 - Coordinador contratado a media jornada
 - Instructores voluntarios
 
+#### Madrid For Refugees
+
+- Todos los profesores y asistentes son voluntarios
+
 ---
 
-### Migracode: Aplicantes
+### Procedencia de los alumnos
+
+### Migracode y Madrid For Refugees
 
 - Refugiados o en búsqueda de asilo
 - Migrantes sin encontrar oportunidades laborales
@@ -158,48 +184,66 @@ TODO: Vincent tiene una diapo de esto super chula, en slides la podriamos hacer 
 
 ---
 
-### Migracode: Aplicantes
+### Requisitos de los alumnos
+
+#### Migracode y Madrid For Refugees
 
 - Interés en IT y aprender a programar
 - Hablar y escribir en inglés
 - Documentación para trabajar en España (o poder acceder a ella en 6 meses)
 
 Note:
+Migracode:
 Se plantea abrir alguna clase en español en el futuro
 Dan apoyo legal para conseguir la docu, pero tiene que haber algo empezado
 
----
+MFR:
+Las clases son en castellano pero la docu están en inglés
 
-### Migracode: Aplicantes
+---
+### Trabajo previo de de los alumnos
+
+### Migracode
 
 - Rellenar formulario: quien eres, por que Migracode, background
-- Actividad HTML/CSS en casa, autodidacta
+- Actividad en casa, autodidacta
 - Entrevista con alguien de coordinación
+
+Note:
+Migracode: Actividad de HTML/CSS
+MFR: Lectura sobre web, frontend, y luego un test.
 
 ---
 
-### Migracode: Aplicantes
+### Procedencia de los alumnos
+
+### Migracode
 
 - 44,7% recomendados de una ONG / Organización / Asociación
 - 26,3% recomendados por un amigo
 - 29% búsqueda internet, social media u otros
+
+### Madrid For Refugees
+
+- Proceden de los centros de ayuda a refugiados con los que colaboramos: CEAR, UNHR...etc.
 
 Note:
 TODO: Hacer una grafica
 
 ---
 
-### Migracode: Background educacional
+## Background educacional de los alumnos
 
 - 54,5% estudios secundarios
 - 45,5% estudios universitarios
 
 Note:
 TODO: Hacer una grafica
+TODO: Buscar les dades de MFR
 
 ---
 
-### Migracode: Objetivos estudiantes
+### Objetivos de los estudiantes
 
 - 52,6% empezar a trabajar como desarrollador
 - 42,1% mejorar conocimientos y prácticas en desarrollo
@@ -214,11 +258,18 @@ TODO: Hacer una grafica
 
 ---
 
-### Migracode: Inclusion de género
+### Inclusion de género
+
+#### Migracode
 
 - 5 instructoras entre las voluntarias
 - 3/10 mujeres estudiantes
 - Ayuda a la conciliación
+
+#### Madrid For Refugees
+
+- 45% instructoras: profesores, asistentes y coordinadores
+- Solo 2 mujeres estudiante
 
 ---
 
@@ -226,7 +277,7 @@ TODO: Hacer una grafica
 
 ---
 
-### Migracode: Voluntarias
+### Voluntariado
 
 - Pequeña entrevista de contacto
 - Aportar según tus posibilidades
@@ -242,6 +293,8 @@ poco tiempo que tengas puedes hacer algo
 
 ---
 
+### Voluntariado: Migracode
+
 <!-- .slide: data-background="img/migracode_class_management.png" -->
 
 Note:
@@ -252,7 +305,9 @@ que puedes llevarla o simplemente ser apoyo...
 
 ---
 
-### Migracode: Temario
+### Temario
+
+#### Migracode
 
 - Junior web developers
 - HTML/CSS, JS, React, Bases de Datos y NodeJS
@@ -261,16 +316,22 @@ que puedes llevarla o simplemente ser apoyo...
 Note:
 Soft skills: resolver conflictos, comunicación...
 
+#### Madrid For Refugees
+
+- Dos perfiles: maquetador y front-end
+- HTML, CSS, JS y Vue.
+- También formación de soft skills
+
 ---
 
 ### Migracode: Temario
 
-- 200 horas de clase
-- 4 horas martes _teoría_
-- 4 horas sábado _práctica_
+- ~200 horas de clase
 - Slack para dudas o 101
 
 Note:
+Migracode:
+4 horas martes _teoría_ + 4 horas sábado _práctica_
 Se les piden ~20 horas semanales en casa. Los martes no son puramente teóricos.
 Los sábados se pide que hayan avanzado en casa y traigan dudas.
 Pueden pedir 101 en remoto o quedar con voluntarios
@@ -295,7 +356,9 @@ TODO: Ésta la tenemos que acabar de trabajar entre los dos, y preguntaré
 
 ---
 
-TODO: Espacio de 3-5 minutos para Harvin Zuniga
+Espacio de 3-5 minutos para Vincent
+
+Espacio de 3-5 minutos para Harvin Zuñiga
 
 ---
 
@@ -340,12 +403,15 @@ Puedes donar a MFR para que la organización siga en marcha.
   - Materiañes
 - Espacios
 - Esponsorizar acciones
-- **CONTRÁTALES**
 
 Note:
 
-Migracode ofrece fundar una clase de 7 meses por ~15000 euros, y Globo
+Migracode ofrece fundar una clase de 7 meses por ~15000 euros, y Glovo
 ha fundado ya un par en BCN que empiezan en marzo
+
+---
+
+**CONTRÁTALES**
 
 ---
 
