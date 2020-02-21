@@ -72,10 +72,10 @@ img/01_ES_solicitantespornacionalidad.jpg
 3. Admitida a trámite, el estado tiene 6 meses para estudiar la solicitud y el solicitante tiene derecho a trabajar.
 4. La resolución puede ser de los siguientes tipos
 
-  4.1. Concesión del estatuto de persona refugiada
-  4.2. Concesión de protección subsidiaria
-  4.3. Denegación del estatuto pero concesión de autorización de residencia por razones humanitarias
-  4.4. Denegación de protección
+   4.1. Concesión del estatuto de persona refugiada
+   4.2. Concesión de protección subsidiaria
+   4.3. Denegación del estatuto pero concesión de autorización de residencia por razones humanitarias
+   4.4. Denegación de protección
 
 Note:
 img/proceso-asilo.jpg
@@ -108,6 +108,8 @@ img/proceso-asilo.jpg
 Note:
 Es un fork de `HackYouFuture`?
 
+- It's not a direct fork .. it was inspired by it. The guy who started in London .. Germán Bencci, who's Venezuelan immigrant .. read about HYF and wanted to start something similar in London
+
 ---
 
 ### Social Hackers Academy
@@ -134,12 +136,14 @@ Open Cultural Center: ONG creada en 2016
 
 TODO: Diapo de OCC? Algo impactante, rollo foto de escuela en el refugio?
 
+---
+
 ### Madrid For Refugees
 
 - La primera promoción empieza a finales de 2018
 - MadridForRefugees es una ONG con múltiples proyectos
 - Colabora con varias organizaciones UNHCR Spain, CEAR, Movimiento por la Paz...etc.
-- Currículum for de HYF y adaptado a nuestras necesidades
+- Currículum fork de HYF y adaptado a nuestras necesidades
 
 Note:
 MadridForRefugees se funda en 2015
@@ -155,11 +159,14 @@ Cursos de lengua, de alfabetización digital, búsqueda de empleo...etc.
 Note:
 TODO: Vincent tiene una diapo de esto super chula, en slides la podriamos hacer similar
 
+---
+
 ### Madrid For Refugees
 
 > We are a non-profit association dedicated to helping and empowering refugees and asylum seekers in the local community in Madrid, Spain. We focus on community integration and employability for refugees.
 
 ---
+
 ### Sostenibilidad
 
 #### Migracode
@@ -201,6 +208,7 @@ MFR:
 Las clases son en castellano pero la docu están en inglés
 
 ---
+
 ### Trabajo previo de de los alumnos
 
 ### Migracode
@@ -212,6 +220,7 @@ Las clases son en castellano pero la docu están en inglés
 Note:
 Migracode: Actividad de HTML/CSS
 MFR: Lectura sobre web, frontend, y luego un test.
+Coordinacion -> Program Manager
 
 ---
 
@@ -263,13 +272,13 @@ TODO: Hacer una grafica
 #### Migracode
 
 - 5 instructoras entre las voluntarias
-- 3/10 mujeres estudiantes
+- 2/9 mujeres estudiantes
 - Ayuda a la conciliación
 
 #### Madrid For Refugees
 
 - 45% instructoras: profesores, asistentes y coordinadores
-- Solo 2 mujeres estudiante
+- Solo 2 mujeres estudiantes
 
 ---
 
@@ -360,6 +369,10 @@ Espacio de 3-5 minutos para Vincent
 
 Espacio de 3-5 minutos para Harvin Zuñiga
 
+Note:
+
+Vincent propone explicar como en Migracode, desde la perspectiva de OCC, ayudamos a los estudiantes con soporte personal (ayuda social, legal, psicologo, organizaciones...)
+
 ---
 
 ## Cómo participar
@@ -371,13 +384,11 @@ Espacio de 3-5 minutos para Harvin Zuñiga
 - Ponte en contacto con alguna organización local
   - A veces necesitamos profesores o asistentes
   - También para talleres o charlas
-- Fuera de BCN o Madrid: 101, material
 - ¡Aún con poca dedicación puedes ayudar!
 
 Note:
-Desde fuera de BCN o Madrid pueden colaborar con videollamadas
-de apoyo a personas que necesitan ayuda para seguir el ritmo de la clase,
-o también trabajar en los materiales, etc.
+Lo de las videollamadas Vincent no lo ve, prefiere crear una comunidad
+local por ahora.
 
 ---
 
