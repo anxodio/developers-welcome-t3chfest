@@ -172,7 +172,7 @@ TODO: Vincent tiene una diapo de esto super chula, en slides la podriamos hacer 
 #### Migracode
 
 - Apoyo de subvención Europea
-- Coordinador contratado a media jornada
+- Program manager contratado a media jornada
 - Instructores voluntarios
 
 #### Madrid For Refugees
@@ -213,14 +213,13 @@ Las clases son en castellano pero la docu están en inglés
 
 ### Migracode
 
-- Rellenar formulario: quien eres, por que Migracode, background
+- Rellenar formulario: quien eres, por qué Migracode, background
 - Actividad en casa, autodidacta
-- Entrevista con alguien de coordinación
+- Entrevista con el Program Manager
 
 Note:
 Migracode: Actividad de HTML/CSS
 MFR: Lectura sobre web, frontend, y luego un test.
-Coordinacion -> Program Manager
 
 ---
 
@@ -283,34 +282,6 @@ TODO: Hacer una grafica
 ---
 
 <!-- .slide: data-background="img/migracode_child_support.png" -->
-
----
-
-### Voluntariado
-
-- Pequeña entrevista de contacto
-- Aportar según tus posibilidades
-- Enseñando se aprende
-- ¡Todos podemos aportar algo!
-
-Note:
-Explicar como hacerse voluntario, entrar a la web, formulario,
-hacer entrevista con alguien de coordinación, luego motivar a que por
-poco tiempo que tengas puedes hacer algo
-
-- TODO: No se si mover esta diapo a "como participar"
-
----
-
-### Voluntariado: Migracode
-
-<!-- .slide: data-background="img/migracode_class_management.png" -->
-
-Note:
-Explicar que entras y te apuntas a las clases que puedas / quieras dar,
-que puedes llevarla o simplemente ser apoyo...
-
-- TODO: No se si mover esta diapo a "como participar"
 
 ---
 
@@ -384,11 +355,34 @@ Vincent propone explicar como en Migracode, desde la perspectiva de OCC, ayudamo
 - Ponte en contacto con alguna organización local
   - A veces necesitamos profesores o asistentes
   - También para talleres o charlas
-- ¡Aún con poca dedicación puedes ayudar!
 
 Note:
 Lo de las videollamadas Vincent no lo ve, prefiere crear una comunidad
 local por ahora.
+
+---
+
+### Voluntariado
+
+- Pequeña entrevista de contacto
+- Aportar según tus posibilidades
+- Enseñando se aprende
+- ¡Todos podemos aportar algo!
+
+Note:
+Explicar como hacerse voluntario, entrar a la web, formulario,
+hacer entrevista con alguien de coordinación, luego motivar a que por
+poco tiempo que tengas puedes hacer algo
+
+---
+
+### Voluntariado: Migracode
+
+<!-- .slide: data-background="img/migracode_class_management.png" -->
+
+Note:
+Explicar que entras y te apuntas a las clases que puedas / quieras dar,
+que puedes llevarla o simplemente ser apoyo...
 
 ---
 
